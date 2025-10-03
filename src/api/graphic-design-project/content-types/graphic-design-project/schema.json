@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "graphic_design_projects",
+  "info": {
+    "singularName": "graphic-design-project",
+    "pluralName": "graphic-design-projects",
+    "displayName": "Graphic Design Project"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Team": {
+      "type": "string"
+    },
+    "Markdown": {
+      "type": "richtext"
+    }
+  }
+}
